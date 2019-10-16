@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Not my dog, not my problem"
 Use the left arrow to go back!
